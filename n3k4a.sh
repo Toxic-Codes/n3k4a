@@ -24,9 +24,9 @@ do
 rm *.xxx >/dev/null 2>&1
 clear
 echo -e "\e[1;31m"
-figlet SpeedX
+figlet Toxic Codes
 echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border SpeedX
+toilet -f mono12 -F border n3k4a
 echo -e "\e[4;34m This Bomber Was Created By n3k4a \e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: ggspeedx29@gmail.com \e[0m"

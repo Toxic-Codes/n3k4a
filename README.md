@@ -44,11 +44,11 @@ so, installing git as per instructions below may not work.
 Please check out how to install `git` for your Linux distribution.
 Commands below provide instructions for Debian-based systems.
 
-To use the bomber type the following commands in Termux:
+To use the N3K4A type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/Toxic-Codes/n3k4a
 cd TBomb
 chmod +x TBomb.sh
 ./TBomb.sh
@@ -63,7 +63,7 @@ so, installing git as per instructions below may not work.
 Please check out how to install `git` for your Linux distribution.
 Commands below provide instructions for Debian-based systems.
 
-To use the bomber type the following commands in Linux terminal:
+To use the N3K4A type the following commands in Linux terminal:
 ```
 sudo apt install git
 git clone https://github.com/TheSpeedX/TBomb.git
@@ -74,7 +74,7 @@ sudo bash TBomb.sh
 
 ### > For macOS:
 
-To use the bomber type the following commands in macOS terminal:
+To use the N3K4A type the following commands in macOS terminal:
 ```
 # Install Brew: 
 
@@ -86,17 +86,17 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
-chmod +x TBomb.sh
+git clone https://github.com/Toxic-Codes/n3k4a.git
+cd n3k4a
+chmod +x n3k4a.sh
 
 # Missing Tools
 
 Toilet cannot be installed yet. But TBomb does still work.
 
-# Run TBomb:
+# Run n3k4a:
 
-sudo bash TBomb.sh
+sudo bash n3k4a.sh
 ```
 
 ## Demontrative Video:
@@ -107,7 +107,7 @@ sudo bash TBomb.sh
 ## CONTRIBUTORS:
 
 - **SpeedX**<br>
-[-] Mail At: ggspeedx29@gmail.com
+[-] Mail At: n3k4a205@gmail.com
 
 - **DarkestEntropy**<br>
 [-] Check At: https://github.com/darkestentropy
@@ -118,7 +118,7 @@ sudo bash TBomb.sh
 [-] Ping At: https://t.me/RieltarReborn
 
 - **0n1cOn3 (Stefan)**<br>
-[-] Mail At: 0n1cOn3@gmx.ch
+[-] Mail At: n3k4a205@gmail.com
 
 ## Donators:
 
@@ -131,7 +131,7 @@ sudo bash TBomb.sh
 Feel Free To Open An Issue...
 
 ```
-                 Mail: ggspeedx29@gmail.com<br>
+                 Mail: n3k4a205@gmail.com<br>
        YouTube Channel: https://www.youtube.com/c/GyanaTech
 ```
 

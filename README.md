@@ -1,4 +1,4 @@
-<h1 align="center">TBomb v1.7b</h1>
+<h1 align="center">n3k4a </h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
 
 ## Note:
@@ -7,7 +7,7 @@
 - No balance will be deducted for using this script to send SMS/calls.
 - While doing infinite bombing use 2-3 seconds delay and 10 to 20 threads for maximum performance.
 - Don't put spaces in between phone number (Ex- 99999 99999)
-- Make sure you are using the latest version of TBomb
+- Make sure you are using the latest version of n3k4a
 - Make sure you are using Python v3.
 
 Here's how you can check it. Type this command in your terminal.
@@ -18,7 +18,7 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 
 - Do not use this to harm others.
 - This script is only for educational purposes or to prank.
-- **None of the developers/contributors are responsible for the misuse of TBomb.**
+- **None of the developers/contributors are responsible for the misuse of n3k4a.**
 <br>
 
 ## Features:
@@ -33,7 +33,7 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 
 ## Usage:
 
-Run these commands to run TBomb
+Run these commands to run n3k4a
 
 ### > For Termux:
 
@@ -49,9 +49,9 @@ To use the N3K4A type the following commands in Termux:
 pkg install git
 pkg install python
 git clone https://github.com/Toxic-Codes/n3k4a
-cd TBomb
-chmod +x TBomb.sh
-./TBomb.sh
+cd n3k4a
+chmod +x n3k4a.sh
+./n3k4a.sh
 ```
 
 ### > For Linux:
